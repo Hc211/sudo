@@ -7,6 +7,8 @@ Termux is a terminal emulator and Linux environment for Android
 termux-sudo was originally hosted on GitHub.  
 Due to the fact that Microsoft is purchasing GitHub, I have decided to move it here.
 
+Ben Hc211, sudo yu gitlab tan tekrar github a çektim. 
+
 **Requirements**
 
 Rooted phone with su binary  
